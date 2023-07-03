@@ -1,0 +1,90 @@
+C:\Users\fg\source\repos\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\fg\source\repos\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\fg\source\repos\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\fg\source\repos\APIStore\Infrastructure\bin\Debug\net6.0\Core.dll
+C:\Users\fg\source\repos\APIStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\fg\source\repos\APIStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

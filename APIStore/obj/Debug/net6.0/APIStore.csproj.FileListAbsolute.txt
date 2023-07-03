@@ -1,0 +1,478 @@
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\appsettings.json
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\APIStore.exe
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\APIStore.deps.json
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\APIStore.runtimeconfig.json
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\APIStore.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\APIStore.pdb
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Core.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\fg\source\repos\APIStore\APIStore\bin\Debug\net6.0\Core.pdb
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.AssemblyReference.cache
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfoInputs.cache
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfo.cs
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CoreCompileInputs.cache
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.APIStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.build.APIStore.props
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIStore.props
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIStore.props
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\scopedcss\bundle\APIStore.styles.css
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CopyComplete
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.dll
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\refint\APIStore.dll
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.pdb
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\APIStore.genruntimeconfig.cache
+C:\Users\fg\source\repos\APIStore\APIStore\obj\Debug\net6.0\ref\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\appsettings.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\APIStore.exe
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\APIStore.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\APIStore.runtimeconfig.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Humanizer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.APIStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.build.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\scopedcss\bundle\APIStore.styles.css
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\refint\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\APIStore.genruntimeconfig.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\obj\Debug\net6.0\ref\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 02\APIStore\APIStore\bin\Debug\net6.0\APIStore.staticwebassets.runtime.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\appsettings.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\APIStore.staticwebassets.runtime.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\APIStore.exe
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\APIStore.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\APIStore.runtimeconfig.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Humanizer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.APIStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.build.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\scopedcss\bundle\APIStore.styles.css
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\refint\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\APIStore.genruntimeconfig.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\obj\Debug\net6.0\ref\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 03\APIStore\APIStore\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\appsettings.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\APIStore.staticwebassets.runtime.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\APIStore.exe
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\APIStore.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\APIStore.runtimeconfig.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Humanizer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.APIStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.build.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\scopedcss\bundle\APIStore.styles.css
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\refint\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\APIStore.genruntimeconfig.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\obj\Debug\net6.0\ref\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 04\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\appsettings.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\APIStore.staticwebassets.runtime.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\APIStore.exe
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\APIStore.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\APIStore.runtimeconfig.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Humanizer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.APIStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.build.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\scopedcss\bundle\APIStore.styles.css
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\refint\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\APIStore.genruntimeconfig.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 05\APIStore\APIStore\obj\Debug\net6.0\ref\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\appsettings.Development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\appsettings.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\APIStore.staticwebassets.runtime.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\APIStore.exe
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\APIStore.deps.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\APIStore.runtimeconfig.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Humanizer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Stripe.net.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Core.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Infrastructure.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\bin\Debug\net6.0\Core.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.AssemblyReference.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfoInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.AssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CoreCompileInputs.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cs
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.APIStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.build.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIStore.props
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\scopedcss\bundle\APIStore.styles.css
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.csproj.CopyComplete
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\refint\APIStore.dll
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.pdb
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\APIStore.genruntimeconfig.cache
+D:\Courses\Route\Backend\Lectures\09 ASP Core API\Session 06\APIStore\APIStore\obj\Debug\net6.0\ref\APIStore.dll
